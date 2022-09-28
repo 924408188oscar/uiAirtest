@@ -1,1 +1,2 @@
 # uiAirtest
+airtest+pytest+pycharm
