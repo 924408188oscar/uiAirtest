@@ -1,6 +1,4 @@
 # -*- encoding=utf8 -*-
-
-
 # generate html report
 # from airtest.report.report import simple_report
 # simple_report(__file__, logpath=True)
